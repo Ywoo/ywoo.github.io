@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: >-
-  표현된 생각
+  나의 생각
 description: >- # this means to ignore newlines until "baseurl:"
   내가 사용하는 언어의 한계가 내가 사는 세상의 한계를 규정한다
   -비트겐슈타인-
